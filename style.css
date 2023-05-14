@@ -89,9 +89,4 @@ body{
     justify-content:space-evenly;
     align-items: center;
 }
-a::after{
-    content: url('https://fontawesome.com/icons/arrow-up-right-from-square?f=classic&s=light');
-   
-}
-
 
